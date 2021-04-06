@@ -1,1 +1,3 @@
 # git-cmd
+
+git rebase
